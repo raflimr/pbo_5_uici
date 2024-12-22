@@ -6,7 +6,7 @@
 ---
 
 ## Deskripsi Tugas
-Praktekan dan pahami kembali materi praktikum di pertemuan ke-5 [https://replit.com/@hynra/PBO-2](https://replit.com/@hynra/pbo-5), beri komentar setiap baris semampu pemahaman Anda. Submit tugas dalam bentuk link ke repl di akun Replit Anda.
+Praktekan dan pahami kembali materi praktikum di pertemuan ke-5 [https://replit.com/@hynra/PBO-5](https://replit.com/@hynra/pbo-5), beri komentar setiap baris semampu pemahaman Anda. Submit tugas dalam bentuk link ke repl di akun Replit Anda.
 
 ---
 
